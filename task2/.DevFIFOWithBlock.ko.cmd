@@ -1,0 +1,1 @@
+cmd_/home/ubuntu/Desktop/task/task2/DevFIFOWithBlock.ko := ld -r -m elf_x86_64 -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/ubuntu/Desktop/task/task2/DevFIFOWithBlock.ko /home/ubuntu/Desktop/task/task2/DevFIFOWithBlock.o /home/ubuntu/Desktop/task/task2/DevFIFOWithBlock.mod.o ;  true

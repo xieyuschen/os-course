@@ -1,0 +1,15 @@
+###############################################################
+# Configuration file for Bochs
+###############################################################
+
+megs: 32
+
+romimage: file=/usr/share/bochs/BIOS-bochs-latest
+vgaromimage: file=/usr/share/vgabios/vgabios.bin
+
+floppya: 1_44=freedos.img, status=inserted
+floppyb: 1_44=pm.img, status=inserted
+boot: a
+
+mouse: enabled=0
+
