@@ -1,0 +1,4 @@
+本文件最后一次打开和运行日期是20201123
+C:\Windows\system32\cmd.exe
+C:\Windows\system32\calc.exe
+C:\Windows\system32\notepad.exe
